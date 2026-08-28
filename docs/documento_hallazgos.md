@@ -31,14 +31,11 @@ Este es el hallazgo con más peso estratégico. Un cálculo mal construido (apro
 
 ---
 
-## Resumen ejecutivo (1 párrafo, para un lector no técnico)
+## Resumen ejecutivo
 
 Este hotel depende casi por completo de clientes nuevos y de agencias de viaje online como motor de ingresos. Los precios y las cancelaciones suben juntos en temporada alta — quienes reservan cuando el precio está más caro también cancelan más, probablemente porque comparan más opciones antes de confirmar. El canal corporativo, aunque aporta volumen, es el menos rentable por reserva. Las tres recomendaciones con mayor impacto potencial: (1) invertir en retención de huéspedes, dado que solo 3 de cada 100 reservas son de clientes que regresan; (2) revisar la política de tarifas corporativas frente a su rentabilidad real; (3) monitorear el cambio reciente en el canal Direct, que ganó terreno sobre Offline TA/TO en el trimestre más reciente analizado.
 
 ---
-
-## Guion de 60-90 segundos (para practicar en voz alta)
-
 > *"Analicé 119 mil reservas de hotel para responder una pregunta simple: ¿de dónde viene realmente el dinero, y qué tan sólido es ese negocio?*
 >
 > *Encontré que el canal que más vende — agencias de viaje online — no es el más rentable por reserva; ese título se lo lleva un canal casi marginal en volumen. También encontré que cuando sube el precio en temporada alta, sube la cancelación con él, lo cual es contraintuitivo pero tiene sentido: la gente compara más cuando paga más.*
@@ -49,22 +46,4 @@ Este hotel depende casi por completo de clientes nuevos y de agencias de viaje o
 
 ---
 
-## Borrador de post para LinkedIn
-
-> Le pedí a un dataset de 119 mil reservas de hotel que me dijera qué tan "leal" era su clientela.
->
-> Mi primer cálculo dijo: 97% de clientes repetidos.
->
-> Sonaba demasiado bueno. Lo validé contra el dato real del sistema.
->
-> Era 3%.
->
-> Un error de 30 veces — causado por aproximar "cliente" usando país + tipo de reserva + agencia, en vez de un identificador real. Miles de huéspedes distintos, agrupados como si fueran la misma persona reservando una y otra vez.
->
-> Si hubiera entregado el primer número sin cuestionarlo, la recomendación de negocio habría sido la contraria a la correcta: "ya casi todos regresan, reduce el presupuesto de adquisición" — cuando la realidad es que este negocio depende casi por completo de clientes nuevos.
->
-> Ningún modelo, dashboard o query reemplaza la pregunta más importante en análisis de datos: ¿este número tiene sentido, o solo se ve bien?
->
-> [Adjuntar: captura del dashboard]
->
 > #DataAnalytics #SQL #Python #PowerBI #OráculoAnalytics
