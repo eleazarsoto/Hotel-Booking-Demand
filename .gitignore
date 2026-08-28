@@ -1,0 +1,18 @@
+# Datos crudos (no subir el CSV/DB completo -- son datos públicos, se referencian por link)
+*.csv
+*.db
+*.sqlite
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
