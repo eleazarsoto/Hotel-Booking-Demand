@@ -1,5 +1,5 @@
 # Hotel Booking Demand — Análisis de Datos
-## Semana 1 · Ruta Técnica Semanal — Eleazar Soto
+## Eleazar Soto
 
 **Dataset:** Hotel Booking Demand (Kaggle / TidyTuesday) — 119,390 reservas de un City Hotel y un Resort Hotel
 **Herramientas:** SQL (SQLite) y Python (pandas) — mismo análisis, dos rutas, validación cruzada
@@ -156,14 +156,8 @@ canales = (
 
 ---
 
-## 5. Resumen ejecutivo (para un lector no técnico)
+## 5. Resumen ejecutivo 
 
 Este hotel depende casi por completo de clientes nuevos (97% de las reservas) y de agencias de viaje online (motor principal de ingresos). Los precios y las cancelaciones suben juntos en temporada alta — quienes reservan cuando el precio está más caro también cancelan más, probablemente porque comparan más opciones. El canal Corporate, aunque aporta volumen, es el menos rentable por reserva. Recomendaciones: (1) invertir en retención de huéspedes, dado el bajísimo porcentaje de clientes repetidos; (2) revisar la política de tarifas corporativas; (3) investigar por qué Direct ganó terreno sobre Offline TA/TO en el trimestre más reciente — podría ser una tendencia a monitorear.
 
 ---
-
-## 6. Próximos pasos (Etapas 4-6 de la Ruta Técnica Semanal)
-
-- [ ] Etapa 4 — Dashboard en Power BI (semana 1 según la progresión sugerida)
-- [ ] Etapa 5 — Documento de hallazgos de 1 página (ya esbozado en la sección 5)
-- [ ] Etapa 6 — Explicación de negocio en <2 min + publicación en LinkedIn
