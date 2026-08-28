@@ -1,6 +1,6 @@
 -- ============================================================
 -- Hotel Booking Demand — 5 preguntas de negocio
--- Técnica de la semana: funciones de ventana (LAG, RANK, ROW_NUMBER)
+-- Funciones de ventana (LAG, RANK, ROW_NUMBER)
 -- ============================================================
 
 -- ------------------------------------------------------------
